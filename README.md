@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-≥3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/version-0.1.0-purple?style=for-the-badge" />
 </p>
 
@@ -38,9 +37,6 @@
 ### 1. Install
 
 ```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/shell-ai.git
-cd shell-ai
 
 # Install (editable mode recommended)
 pip install -e .
@@ -189,22 +185,6 @@ shell_ai/
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-```bash
-# Development setup
-git clone https://github.com/YOUR_USERNAME/shell-ai.git
-cd shell-ai
-pip install -e .
-shai
-```
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">
-  Built with ◈ by humans and AI
+  Built by humans and AI
 </p>
